@@ -7,7 +7,7 @@ LIST visited =  Cube, RedRoundel, BlueBox, Parms, FlowsExplained, ExternalFuncs
 == Main
     {  
     - not visited : 
-        This is a demo of some of the types of interaction between Ink script and the game world.
+        Razd, dwa, trzy. This is a demo of some of the types of interaction between Ink script and the game world.
         The Ink flow is controlled by triggers that have been setup in the level blueprint.  
         Use W,A,S,D to walk, and the left and right arrow keys to turn.
         Now, walk towards to the colourless cubes.
@@ -140,4 +140,14 @@ LIST visited =  Cube, RedRoundel, BlueBox, Parms, FlowsExplained, ExternalFuncs
     and this, '{ReturnValue}', is what it returned. 
     ->DONE
 
-
+== BGtest
+Raz, dwa, trzy - to jest próba mikrofonu.
+*Wybór pierwszy.
+Raz.
+-> BGtest
+*Wybór drugi.
+Dwa.
+-> BGtest
+*I koniec.
+No i koniec.
+-> DONE
